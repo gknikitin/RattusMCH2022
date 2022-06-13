@@ -1,0 +1,97 @@
+h1{
+  color: white;
+  text-align: center;
+  margin-top: 100px;
+}
+.block-left
+{
+  width:50%;
+  height:70%;
+  overflow:auto;
+  float:left;
+  color: #1e2124;
+}
+.block-right
+{
+  width:50%;
+  height:70%;
+  overflow:auto;
+  float: right;
+  color: #1e2124;
+}
+.box1{
+  padding: 25px;
+  margin-left: 105px;
+  margin-top: 60px;
+  width: 80%;
+  height: 100%;
+  background: #e6fff6;
+  border: 3px solid white;
+  border-radius: 20px;
+}
+.box2{
+  padding: 25px;
+  margin-left: 105px;
+  margin-top: 60px;
+  width: 80%;
+  height: 100%;
+  background: #e6fff6;
+  border: 3px solid white;
+  border-radius: 20px;
+}
+.button1 {
+  margin-top: 50px;
+  margin-left: 10%;
+  border: 1px solid white;
+  outline: none;
+  display: inline-block;
+  text-align: center;
+  text-decoration: none;
+  cursor: pointer;
+  font-size: 32px;
+  background: #1e2124;
+  font-family: sans;
+  padding: 12px 16px;
+  border-radius: 10px;
+  color: #e6fff6;
+}
+.button3 {
+  margin-top: 20px;
+  margin-left: 15%;
+  border: 1px solid white;
+  outline: none;
+  display: inline-block;
+  text-align: center;
+  text-decoration: none;
+  cursor: pointer;
+  font-size: 32px;
+  background: #1e2124;
+  font-family: sans;
+  padding: 12px 16px;
+  border-radius: 10px;
+  color: #e6fff6;
+}
+
+.button2 {
+  margin-top: 155px;
+  margin-bottom: 50px;
+  margin-left: 11%;
+  border: 1px solid white;
+  outline: none;
+  display: inline-block;
+  text-align: center;
+  text-decoration: none;
+  cursor: pointer;
+  font-size: 32px;
+  background: #1e2124;
+  font-family: sans;
+  padding: 12px 16px;
+  border-radius: 10px;
+  color: #e6fff6;
+}
+.button1:hover, .button2:hover, .button3:hover {
+    background: #e6fff6;
+	color: #1e2124;
+	border: 2px solid #1e2124;}
+
+

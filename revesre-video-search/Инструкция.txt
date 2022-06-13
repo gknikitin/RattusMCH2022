@@ -1,0 +1,11 @@
+
+python video2frames.py input/video/file/path output/folder [--maxframes] [--rotate]
+
+Опции : 
+
+	--maxframes : Желаемое итоговое число кадров 
+
+	--rotate : Временой промемужок при раскадровки видеоролика = {90, 180, 270}
+
+
+
